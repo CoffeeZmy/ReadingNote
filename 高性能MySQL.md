@@ -1,5 +1,9 @@
 # 高性能MySQL
 
+[TOC]
+
+
+
 ## MySQL架构与历史
 
 ### MySQL逻辑架构
